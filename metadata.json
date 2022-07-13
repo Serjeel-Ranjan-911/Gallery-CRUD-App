@@ -1,0 +1,22 @@
+[
+	{
+		"ImgName": "Shiba Inu",
+		"ImgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Original_Doge_meme.jpg/300px-Original_Doge_meme.jpg",
+		"ImgDetails": "Shiba Inu Puppies are cute"
+	},
+    {
+		"ImgName": "Afador",
+		"ImgURL": "https://www.petsmont.com/blogs/pets/afador-dog-everything-you-need-to-know",
+		"ImgDetails": "The Afador is a mixed breed dog–a cross between the Afghan Hound and Labrador Retriever dog breeds. Loyal, energetic, and affectionate, these pups inherited some of the best qualities from both of their parents."
+	},
+    {
+		"ImgName": "Auggie",
+		"ImgURL": "https://www.petguide.com/breeds/dog/auggie/",
+		"ImgDetails": "The Auggie is a mixed breed dog–a cross between the Australian Shepherd and Corgi, and typically, the Miniature Australian Shepherd and the Pembroke Welsh Corgi. Friendly, energetic, and playful, these mixed breed herding dogs make great companions for the whole family."
+	},
+    {
+		"ImgName": "Bassador",
+		"ImgURL": "https://kidadl.com/facts/animals/bassador-facts",
+		"ImgDetails": "The Bassador is a mixed breed dog–a cross between the Basset Hound and the Labrador Retriever dog breeds. Loyal, sometimes stubborn, and always sniffing around, these pups inherited some of the best traits from both of their parents."
+	}
+]
